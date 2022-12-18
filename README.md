@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi 👋   I'm **Anna Gubkina** and I'm a beginner Java developer
+
+### Projects that I did:
+* [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
+* [CRUD app for users with books](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers)
+
+
+
 
 <!--
 **AnnaGubkina/AnnaGubkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
