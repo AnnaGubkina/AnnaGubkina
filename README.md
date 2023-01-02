@@ -1,8 +1,8 @@
-## Hi 👋   I'm **Anna Gubkina** and I'm a beginner Java developer
+# Hi 👋   I'm **Anna Gubkina** and I'm a beginner Java developer
 
-### Projects that I did:
-* [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
-* [CRUD app for users with books](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers)
+## Projects that I did:
+### Сервис перевода денег - [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
+### Модуль по работе с пользователями и книгами [CRUD app for users with books](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers)
 
 
 
