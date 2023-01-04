@@ -1,4 +1,4 @@
-# Hi 👋   I'm **Anna Gubkina** and I'm a beginner Java developer
+# Меня зовут **Анна Губкина** и я начинающий Java developer
 
 ## Мои проекты:
 ### Сервис перевода денег - [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
