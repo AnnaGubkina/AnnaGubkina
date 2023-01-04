@@ -3,6 +3,7 @@
 ## Мои проекты:
 ### Сервис перевода денег - [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
 ### Модуль по работе с пользователями и книгами - [CRUD app for users with books](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers)
+### Браузерная игра Крестики-нолики - [TicTacToe](https://github.com/AnnaGubkina/TicTacToe)
 
 
 
