@@ -38,7 +38,7 @@
 
 
 
-Другие домашние задания можно найти по ссылке: [my_homeworks](https://github.com/AnnaGubkina/my_homeworks)
+Другие домашние задания можно посмотреть по ссылке: [my_homeworks](https://github.com/AnnaGubkina/my_homeworks)
 
 ---
 
