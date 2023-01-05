@@ -1,5 +1,5 @@
 ## Привет!
-Меня зовут **Анна Губкина**,я начинающий Java developer
+Меня зовут **Анна Губкина**, Java developer
 
 
 
@@ -10,8 +10,29 @@
 
 ---
 
-## Домашние задачи:
+## Домашние задачи во время обучения:
 
+#### Задания по SQL и таблицам:
+[Таблица пользователей](https://github.com/AnnaGubkina/Users_Table_SQL)
+[Две таблицы](https://github.com/AnnaGubkina/Two_SQL_tables)
+
+#### Задания по работе с БД:
+[DAO слой JDBC](https://github.com/AnnaGubkina/JDBC_Layer/tree/master)
+[Две таблицы с Hibernate](https://github.com/AnnaGubkina/JDBC_Layer/tree/hibernate)
+[DAO слой c Hibernate с JPA Repositories, аннотации @Query и язык JPQL](https://github.com/AnnaGubkina/Hibernate_layer/tree/jpa-repository-query)
+[DAO слой c Hibernate + миграции](https://github.com/AnnaGubkina/Hibernate_layer/tree/migration-hibernate)
+
+#### Задания по Spring Security:
+[Задача Безопасное приложение](https://github.com/AnnaGubkina/Hibernate_layer/tree/spring_security_endpoints)
+[Задача Безопасные методы](https://github.com/AnnaGubkina/Hibernate_layer/tree/spring_security_methods)
+
+#### Задания по Stream API:
+
+
+#### Тестирования задач и проектов:
+[Тестирование  JUnit тесты + mockito + testcontainers из проекта Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService/tree/master/src/test/java/ru/netology/moneytransferservice)
+[Тестирование  JUnit тесты + mockito + testcontainers из проекта Модуль по работе с пользователями и книгами](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers/src/test/java/com/edu/ulab/app_ylab)
+[Conditional приложение + Интеграционное тестирование](https://github.com/AnnaGubkina/Conditional)
 
 
 ---
