@@ -13,8 +13,8 @@
 ## Домашние задачи во время обучения:
 
 #### Задания по SQL и таблицам:
-[Таблица пользователей](https://github.com/AnnaGubkina/Users_Table_SQL)
-[Две таблицы](https://github.com/AnnaGubkina/Two_SQL_tables)
+* [Таблица пользователей](https://github.com/AnnaGubkina/Users_Table_SQL)
+* [Две таблицы](https://github.com/AnnaGubkina/Two_SQL_tables)
 
 #### Задания по работе с БД:
 * [DAO слой JDBC](https://github.com/AnnaGubkina/JDBC_Layer/tree/master)
