@@ -27,6 +27,8 @@
 * [Задача Безопасные методы](https://github.com/AnnaGubkina/Hibernate_layer/tree/spring_security_methods)
 
 #### Задания по Stream API:
+* [Задачи "Работа с числами" и "Перепись населения" ](https://github.com/AnnaGubkina/Stream-Api-Homeworks/tree/master)
+* [Задачи "Фильтры авиаперелетов" ](https://github.com/AnnaGubkina/Flight_filters)
 
 
 #### Тестирования задач и проектов:
