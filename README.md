@@ -1,10 +1,14 @@
 ## Привет!
-Меня зовут **Анна Губкина** и я начинающий Java developer
+Меня зовут **Анна Губкина**, Java developer
+
+---
 
 ## Мои проекты:
 #### Сервис перевода денег - [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
 #### Модуль по работе с пользователями и книгами - [CRUD app for users with books](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers)
 #### Браузерная игра Крестики-нолики - [TicTacToe](https://github.com/AnnaGubkina/TicTacToe)
+
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
