@@ -28,7 +28,7 @@
 
 #### Задания по Stream API:
 * [Задачи "Работа с числами" и "Перепись населения" ](https://github.com/AnnaGubkina/Stream-Api-Homeworks/tree/master)
-* [Задачи "Фильтры авиаперелетов" ](https://github.com/AnnaGubkina/Flight_filters)
+* [Задача "Фильтры авиаперелетов" ](https://github.com/AnnaGubkina/Flight_filters)
 
 
 #### Тестирования задач и проектов:
@@ -36,6 +36,9 @@
 * [Тестирование  JUnit тесты + mockito + testcontainers из проекта Модуль по работе с пользователями и книгами](https://github.com/AnnaGubkina/Ylab_Spring/tree/test_containers/src/test/java/com/edu/ulab/app_ylab)
 * [Conditional приложение + Интеграционное тестирование](https://github.com/AnnaGubkina/Conditional)
 
+
+
+Другие домашние задания можно найти по ссылке: https://github.com/AnnaGubkina?tab=repositories
 
 ---
 
