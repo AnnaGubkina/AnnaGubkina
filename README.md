@@ -57,8 +57,17 @@
 
 ---
 
-* ⚡  My Certifications :
-* - [Основы Java](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/java.jpg)
+ ⚡  My Certifications :
+ - [Java basics](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/java.jpg)
+ - [Git](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/Git.jpg)
+ - [Java Core](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/JavaCore.jpg)
+ - [Design patterns](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/templates.jpg)
+ - [Java multireading](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/multireading.jpg)
+ - [Web, Spring & Spring MVC](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/MVC.jpg)
+ - [Spring Boot, deployment and infrastructure](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/boot.jpg)
+ - [Data storage and security organization](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/db.jpg)
+ 
+ - ["Погружение в Java" от компании Ylab](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/sertificate_ylab.pdf)
 
 
 <!--
