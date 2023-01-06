@@ -57,6 +57,8 @@
 
 ---
 
+* ⚡  My Certifications :
+* - [Основы Java](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/java.jpg)
 
 
 <!--
