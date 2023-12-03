@@ -5,7 +5,7 @@
 
 ## Мои проекты:
 
-*У меня есть несколько учебных, и не только, проектов:*
+*У меня есть несколько учебных проектов, которые находятся в закрытых репозиториях. Готова показать по запросу*
 
 #### Облачное хранилище файлов - [Cloud Storage](https://github.com/AnnaGubkina/CloudStorage)
 #### Сервис перевода денег - [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
